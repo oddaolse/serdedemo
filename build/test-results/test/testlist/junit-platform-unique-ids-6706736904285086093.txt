@@ -1,0 +1,3 @@
+[engine:junit-jupiter]/[class:com.example.DemoTest]/[method:serdeHashMap()]
+[engine:junit-jupiter]/[class:com.example.DemoTest]/[method:serdeContent()]
+[engine:junit-jupiter]/[class:com.example.DemoTest]/[method:serdeMessage()]
